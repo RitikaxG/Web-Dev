@@ -1,0 +1,19 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore node_modules if you later add JavaScript dependencies
+node_modules/
+
+# Ignore build or generated files
+dist/
+build/
